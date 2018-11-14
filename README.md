@@ -1,3 +1,13 @@
+
+TabCarousel hackv2
+===========
+This versions and a websocket client to the chrome plugin. By connection to a websocket backend(example implemented in /nodejs/), the websocket server can control the TabCarousel by issuing commands to the plugin. The websocket can start, stop, next and prev the tabs.
+
+
+Why do we need this?
+----
+My college and I want to control the tabs from 4 buttons connected to a raspberry pi :b 
+
 TabCarousel
 ===========
 
